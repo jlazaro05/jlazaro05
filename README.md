@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development and design
 - 🌱 I’m currently learning GitHub
 - 💞️ I’m looking to collaborate on making projects
-- 📫 studioejo@gmail.com
+- 📫 johnlatlazaro@gmail.com
 
 <!---
 jlazaro05/jlazaro05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
